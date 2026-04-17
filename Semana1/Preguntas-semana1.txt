@@ -1,6 +1,0 @@
-pregunta 1
-respuesta:B
-pregunta 2
-repuesta:C
-pregunta 3
-repuesta:B
