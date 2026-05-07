@@ -1,0 +1,16 @@
+Reflexionar sobre la importancia de la terminal para un programador al momento de desarrollar
+va mas alla de lo tecnico; es entender como una herramienta puede formar habitos y mentalidad
+esta pregunta me hace preguntar ¿ porque es necesario salir de lo comodo? para apreder algo
+que al inicio es un poco dificil, mi respuesta es crecimiento . La Terminal obliga al desarrollador
+a ser mas conciente de lo que hace, a entender cada paso y a tener control sobre su proyecto
+no hay boton3s automaticos cada comando tiene una intencion.
+Tambien nos lleva a valorar el orden.Navegar y organizar archivos desde la terminal
+no solo es mover carpetas de un lado a otro es aprender a estructurar ideas , a mantener 
+claridad en muchos elementos, y a trabajar con diciplina. Esto se refleja no solo en el codigo
+sino en la forma de pensar y resolver problemas.
+Esta pregunta me lleva a pensar que un buen desarrollador no se queda en lo basico.
+sino que busca herramientas que lo hagan mas fuerte, y eficiente ,que le permitan 
+trabajar mejor en equipo y que le den ventaja al momento de enfrentar re
+tos mas grandes.
+para concluir usar la terminal no es una obligacion sin sentido sino una oportunidad para 
+crecer.
