@@ -1,0 +1,9 @@
+pienso que usar herramientas como git es muy importante ya que nos ayuda a mantener organizado
+nuestro proyecto y permite ver todos los cambios que se an realizado.Tambien nos sirve para 
+corregir errores sin perder el trabajo anterior,lo cual facilita mucho el desarrollo de software.
+segun mi conocimiento y lo que estoy aprendiendo de git en este curso , nos permite trabajar en 
+equipo de una manera ordenada y segura, ya que cada persona puede aportar cambios al proyecto.
+Ademas, ayuda a mantener un mejor control de versiones y del progreso realizado.para mi apreder a usar git a sido un reto bastante enriquesedor lo cual me guta mucho porque yo me siento una programadora para la paz ya , y me hace sentir como un poco mas de responsabiblidad al momento de subir las actividades requeridas en el curso.otra cosa importante es que facilita el guardar y publicar los trabajos en la plataforma de github.gracias  a estas herramientas, los 
+proyectos pueden mantenerse actulizados  y bien organizados.en mi opinion git es una herramienta muy util porque hace el trabajo mas practico, seguro y profesional.
+para concluir estas herramientas pienso, que  son importante conocerlas  a fondo y enterderlas completamente porque al conocerlas se nos pueden abrir oportunidades en el area de la tecnologia, 
+ya que es una herramienta muy utilizada actualmente . Esta actividad me ayudo a entender la importancia de mantener un registro de cambios y de trabajar de manera ordenada dentro de un proyecto de software. 

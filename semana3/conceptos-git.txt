@@ -1,0 +1,13 @@
+1 : repositorio
+es la carpeta del proyecto donde git guarda todo el historial de cambios .
+puede estar en mi computador , local , o en la nube como github, remoto.
+es como la caja fuerte donde vive el proyecto.
+2 commit: 
+es guardar una foto del proyecto en ese momento con un mensaje esplicando que cambie.
+cada commit crea un punto en el historial al qie puedo volver si algo sale mal.
+Es el paso de confirmar los cambios que prepare con "git add".
+3push :
+Es el comando para enviar todos mis commits locales en el repositorio remoto en github.
+sirve para respaldar mi trabajo en la nube y compartirlo con mi equipo .
+sin push, los cambios se quedan solo en mi computador.
+
