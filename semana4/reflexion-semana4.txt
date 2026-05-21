@@ -1,0 +1,15 @@
+Es importante que las comunidades puedan construir sus propias herramientas 
+tecnologicas porque adi resuelven problemas reales de su entorno sin depender 
+de empresas externas . Usando tecnologias abiertas como node.js,cualquier persona 
+puede aprender , modigiar  y compartir el codigo libre mente. Esto da 
+Autonomia digital y hace que el conocimiento no se quede solo en pocas manos
+.Ademas trabajar con software libre permite que varias personas colaboren desde 
+distintos lugares para mejorar las herramientas .
+cuando una comunidad aprende a programar , gana poder para construir soluciones mas 
+justas y adaptadas a su realidad.
+hacer herramientas propias tambien es un acto politico y cultural :significa que las 
+cunidades dejan de ser solo consumidoras de tecnologia para convertirse en creadoras
+Esto fortalece la soberania digital y permite que la tecnologia sirva bien comun
+en lugar de lucro privado .
+por eso es clave que iniciativas ciudadanas aprendar a programar y se apropien de 
+estas herramientas.
