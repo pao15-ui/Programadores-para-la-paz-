@@ -1,0 +1,9 @@
+Ruta post/reporte 
+¿que hace?
+Recibe datos que envia el usuario desde el "body" de la peticion.
+con req.body.mensaje toma el texto que mandaron y responde con un 
+JSON que dice reporte recibido" y muestra el mensaje
+¿para que sirve en una comunidad?
+Para que los vecinos puedan enviar reportes de forma organizada 
+usando el mismo formato . Ejemplo :{"mensaje:hay in bache en la 
+calle 5" } .Asi la informacion qie da ordenada y se puede guardar /analizar despues , en vez de tener mensajes desordenados en whatsApp.

@@ -1,0 +1,6 @@
+1.Get http://localhost:3000
+Resultado:servidor activo
+2 Get http://localhost:3000/saludo
+Resultado: Hola comunidad
+3.Get http://localhost:3000/mensaje/paola
+Resultado: Hola paola

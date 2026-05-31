@@ -1,0 +1,12 @@
+APIs conectar sin que todos usen la misma app.
+hpy si tu colonia usa whatsApp y la del al lado usa telegram, no se 
+enteran.Una Apl de alerta es como un idioma comun. la junta vecinal reporta en su app, la escuela recibe la alerta en su sistema , el
+municipio lo ve en su mapa.Mismo reporte, tres canales.Nadie que da 
+fuera por usar tecnologia distinta.Estandarizar el "que"y "donde".Una APl obliga a que todo reporte tenga los mismos campos: tipos de incidentes, ubicacion ,Gps,ahora ,evidencia,nivel de urgencia.sin esto cada grupo inventa su formato y nadie puede cruzar datos.
+con APl" fuga de agua"siempre se reporta igual.eso permite hacer estadisticas reales y no solo anecdotas.
+Atomatizar la accion, no solo informar .APl no es solo mostrar datos .es conectar accion: reporte de bache -APl lo manda automatico
+al sistema del municipio .
+alerta de sismo - APl dispara sirenas + sms+ whatsApp+ pantalla de plaza.
+corte de liz - APl actualiza el mapa de CFG y avisa solo las cuadras afectadas.
+menos intermediarios , mas respuestas.
+verificacion distribuidad . una APl puede elegir " minimo tres confirmaciones de dispositivos en 200m"antes de marcar el reporte como valido . asi evitas que una persona sature el sistema.la verificacion la hacen vecinos , sensores de la ciudad , camaras .Las APl solo junta las piesas y da el veredicto. conclusion las apps resuelven " como reporto" las Apl resuelven " como nos conectamos todo pra que el reporte sirva " . sin APl tienes 20 apps aisladas. con APl tines una red .Riesgo si las APl las controla solo el gobierno se vuelve censura . si es abierta y con reglas claras , se vuelve poder ciudadano .
